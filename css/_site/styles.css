@@ -381,7 +381,7 @@ nav .right a:last-child:hover{
 }
 
 
-/* SECTION 4: Contact */
+/* SECTION 4: Contact 
 .contact-section {
     padding: 25px 25px;
     max-width: 600px;
@@ -428,7 +428,7 @@ nav .right a:last-child:hover{
     height: 50px;
     cursor: pointer;
     transition: 0.1s
-}
+} */
 
 @media (max-width: 1200px){
 
@@ -459,10 +459,10 @@ nav .right a:last-child:hover{
 
 
 
-    /*SECTION 4:Contact */
+    /*SECTION 4:Contact 
     .contact-section .group{
         flex-direction: column;
-    }
+    } */
 
 
 
