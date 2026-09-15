@@ -15,12 +15,10 @@ title: Aidan Turico's Portfolio # This is what shows up in the tab of the browse
 name: Aidan Turico
 headline: Aerospace Engineering Student at Barrett, The Honors College, Arizona State University
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Email: aturico@asu.edu
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/chillphoto.jpg
 
 
 # Link your resume
@@ -50,14 +48,6 @@ skills:
     - Java
     - Python
     - Git/GitHub
-  - category: Robotic & Control Systems
-    tools:
-    - PID / PIDF Controller
-    - Feedforward Control
-    - Motion Profiling
-    - Autonomous Path Planning
-    - Kinematics
-    - Sensor Fusion
   - category: CAD & Fabrication
     tools:
     - Onshape
@@ -66,6 +56,14 @@ skills:
     - Waterjet Cutting
     - Laser Cutting
     - Soldering
+  - category: Robotics & Control Systems
+    tools:
+    - PID / PIDF Controller
+    - Feedforward Control
+    - Motion Profiling
+    - Autonomous Path Planning
+    - Kinematics
+    - Sensor Fusion
   - category: Software
     tools:
     - Autodesk CFD
