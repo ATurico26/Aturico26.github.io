@@ -13,7 +13,7 @@ title: Aidan Turico's Portfolio # This is what shows up in the tab of the browse
 
 # Hero Section
 name: Aidan Turico
-headline: headline message
+headline: Aerospace Engineering Student at Barrett, The Honors College, Arizona State University
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -45,46 +45,37 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Programming
+    tools:
+    - Java
+    - Python
+    - Git/GitHub
+  - category: Robotic & Control Systems
+    tools:
+    - PID / PIDF Controller
+    - Feedforward Control
+    - Motion Profiling
+    - Autonomous Path Planning
+    - Kinematics
+    - Sensor Fusion
+  - category: CAD & Fabrication
     tools:
     - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
-    tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
+    - FDM/Resin 3D Printing
+    - CNC Machining
+    - Waterjet Cutting
     - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    - Soldering
+  - category: Software
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - Autodesk CFD
+    - Canva
+    - Microsoft Excel
+    - Microsoft Powerpoint
+    - Microsoft Word
+    - Google Docs
+    - Google Sheets
+    - Google Slides
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
