@@ -12,6 +12,12 @@ skills:
 main-image: /201Robot.jpeg 
 ---
 
+## Overview
+- Designed a custom differential swerve drivetrain which was iterated over 10 months before reaching a final design that included hot-swappable modules, custom 3D printed nylon resin gears, and reliability in a competition setting. 
+- Designed, manufactured, and helped build the final robot design which included custom inhouse waterjet cut plates and 3D printed parts, optimised linear extending arm and claw, and various COTS electronics and components.  
+- Combined and built upon 2 autonomous path planning softwares, Road Runner and Pedro Pathing, to integrate the best features into the unconventional drivetrain.
+
+
 [Final Portfolio](https://drive.google.com/file/d/1pY4jD_e1AU5so8fX38LBv1ZVqSsHSmwu/view?usp=drive_link)  
 
 

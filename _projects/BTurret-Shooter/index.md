@@ -12,6 +12,12 @@ skills:
 main-image: /991Robot.jpeg 
 ---
 
+## Overview
+- Developed code for real-time projectile trajectory calculations with robot velocity compensation which used sensor fusion from Limelight 4 April tag vision, odometry, and IMU data. 
+- Designed, manufactured, and assembled the turret and shooting mechanism from custom inhouse waterjet cut plates, 3D printed parts, and various COTS components. 
+
+
+
 [End of the Year Portfolio](https://drive.google.com/file/d/1_v6LEPWi_v_7c1ITmoiV7GqPxIKh3cx4/view?usp=drive_link)
 
 ---
