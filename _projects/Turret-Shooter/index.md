@@ -9,7 +9,7 @@ skills:
 - Kinematics / Projectile Trajectory Calculations
 - Sensor Fusion
 - Team Leadership
-main-image: /991Robot.jpg 
+main-image: /991Robot.jpeg 
 ---
 
 ## Overview
@@ -22,6 +22,7 @@ main-image: /991Robot.jpg
 ## Awards
 - Ranked 6th in Qualification Matches at the Las Vegas Regional
 - Industrial Design Award at the Las Vegas Regional
-- Ranked 10th in Qualification Matches at the Arizona North Regional
+- Ranked 10th in Qualification Matches at the Arizona North Regional  
+
 [The Blue Alliance](https://www.thebluealliance.com/team/991/2026)
 

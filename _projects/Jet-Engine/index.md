@@ -6,7 +6,7 @@ skills:
 - Onshape
 - 3D Printing
 - Waterjet Cutting
-main-image: /JetEngine.jpg 
+main-image: /JetEngine.jpeg 
 ---
 
 ## Overview
