@@ -17,5 +17,5 @@ main-image: /canoe.jpeg
 - Final canoe completed 6+ laps across the Brophy 60m competition pool without leaking and managed to accommodate 6 students at once including 2 audience members during several victory laps. 
 
 
-{% include image-gallery.html images="canoeCAD.jpg" height="500" %}
+{% include image-gallery.html images="canoeCAD.jpeg" height="500" %}
 
